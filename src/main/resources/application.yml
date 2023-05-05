@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: miconautServerOpenapi
+netty:
+  default:
+    allocator:
+      max-order: 3
